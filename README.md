@@ -1,2 +1,61 @@
 # Java-Programming-MOOC
-Learn Java Programming Language from MOOC offered by the CS department of University of Helsinki, Finland.
+Learn Java Programming Language from MOOC offered by the CS department of University of Helsinki, Finland. Follow the files names written in the following order to learn Java from an absolute beginner to advance level.
+
+# Java Programming I
+    Part: 1
+        1. PrintStatement
+        2. ReadingInput
+        3. StringConcatenation
+        4. ReadingStrings
+        5. InputStringsAsPartOfOutput
+        6. ProgramExecutionWaitsForInput
+        7. VariableTypes
+        8. TypesPersistance
+        9. ReadingIntegers
+        10. ReadingBooleans
+        11. ArithmeticOperation
+        12. CheckIndentation
+        13. ModuloOperator
+        14. ComparingStrings
+        15. LogicalOperators
+        16. ExecutionOrderOfConditionals
+
+# Java Programming I (Exercises)
+    Part: 1
+        1. Sandbox
+        2. AdaLovelace
+        3. OnceUponATime
+        4. Dinosaur
+        5. Message
+        6. HiAdaLovelace
+        7. MessageThreeTimes
+        8. Greeting
+        9. Conversation
+        10. Story
+        11. VariousVariables
+        12. IntegerInput
+        13. DoubleInput
+        14. BooleanInput
+        15. DifferentTypesOfInput
+        16. SecondsInADay
+        17. SumOfTwoNumbers
+        18. SumOfThreeNumbers
+        19. AdditionFormula
+        20. MultiplicationFormula
+        21. AverageOfTwoNumbers
+        22. AverageOfThreeNumbers
+        23. SimpleCalculator
+        24. SpeedingTicket
+        25. CheckYourIndentation
+        26. Orwell
+        27. Ancient 
+        28. Positivity
+        29. Adulthood
+        30. LargerThanOrEqualTo
+        31. GradesAndPoints
+        32. OddOrEven
+        33. Password
+        34. Same
+        35. CheckingTheAge
+        36. LeapYear
+        37. GiftTax
