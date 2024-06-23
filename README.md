@@ -20,6 +20,22 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         15. LogicalOperators
         16. ExecutionOrderOfConditionals
 
+    Part: 2
+        1. Loops
+        2. WhileLoops
+        3. FindingPercentageOfInput
+        4. WhileLoopWithCondition
+        5. ForLoop
+        6. StructureOfLoops
+        7. CustomMethods
+        8. MethodWithParameter
+        9. MultipleParameters
+        10. ParamValues
+        11. MethodsWithReturnValue
+        12. MoreOnReturnKeyword
+        13. UsingVariablesInsideMethods
+        14. MethodCallingMethod
+
 # Java Programming I (Exercises)
     Part: 1
         1. Sandbox
@@ -59,3 +75,39 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         35. CheckingTheAge
         36. LeapYear
         37. GiftTax
+    
+    Part: 2
+        1. Squared
+        2. SquareRootOfSum
+        3. AbsoluteValue
+        4. ComparingNumbers
+        5. CarryOn
+        6. AreWeThereYet
+        7. OnlyPositives
+        8. NumberOfNumbers
+        9. NumberOfNegativeNumbers
+        10. SumofNumbers
+        11. NumberAndSumOfNumbers
+        12. AverageOfNumbers
+        13. AverageofPositiveNumbers
+        14. Counting
+        15. CountingToHundred
+        16. FromWhereToWhere
+        17. SumOfASequence
+        18. SumOfASequenceTheSequel
+        19. Factorial
+        20. RepeatingBreakingAndRemembering
+        21. InAHoleInTheGround
+        22. Reprint
+        23. FromOneToParameter
+        24. FromParameterToOne
+        25. Division
+        26. DivisibleByThree
+        27. NumberUno
+        28. Word
+        29. Summation
+        30. Smallest
+        31. Greatest
+        32. Averaging
+        33. StarSign
+        
