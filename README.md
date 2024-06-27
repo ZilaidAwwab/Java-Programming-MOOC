@@ -35,6 +35,22 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         12. MoreOnReturnKeyword
         13. UsingVariablesInsideMethods
         14. MethodCallingMethod
+    
+    Part: 3
+        1. MyList
+        2. IteratingOverAList
+        3. ForEachLoop
+        4. RemoveArrayMethods
+        5. ContainsArrayMethods
+        6. ListAsAParameter
+        7. WorkingWithArray
+        8. SizeAndIterationOverArray
+        9. ArrayAsParameter
+        10. CreatingAnArray
+        11. SplittingString
+        12. FixedFormatData
+        13. Decrypting
+        14. LengthOfAString
 
 # Java Programming I (Exercises)
     Part: 1
@@ -110,4 +126,38 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         31. Greatest
         32. Averaging
         33. StarSign
-        
+        34. Patterns
+
+    Part: 3
+        1. ThirdElement
+        2. SecondPlusThird
+        3. IoobProgram
+        4. ListSize
+        5. LastInList
+        6. FirstAndLast
+        7. RememberTheseNumbers
+        8. OnlyTheseNumbers
+        9. GreatestInList
+        10. IndexOf
+        11. IndexOfSmallest
+        12. SumOfAList
+        13. AverageOfAList
+        14. OnTheList
+        15. PrintInRange
+        16. Sum
+        17. RemoveLast
+        18. Swap
+        19. IndexWasNotFound
+        20. SumOfArray
+        21. PrintNeatly
+        22. PrintInStars
+        23. PrintThrice
+        24. IsItTrue
+        25. Login
+        26. LineByLine
+        27. AVClub
+        28. FirstWords
+        29. LastWords
+        30. AgeOfTheOldest
+        31. NameOfTheOldest
+        32. PersonalDetails
