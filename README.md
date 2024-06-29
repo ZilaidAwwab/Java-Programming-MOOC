@@ -51,6 +51,13 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         12. FixedFormatData
         13. Decrypting
         14. LengthOfAString
+    
+    Part: 4
+        1. Person
+        2. FileHandling
+        3. AddingFileContentToAnArray
+        4. HandlingEmptyLinesInAFile
+        5. ReadingDataFromCSVFormatFile
 
 # Java Programming I (Exercises)
     Part: 1
@@ -161,3 +168,36 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         30. AgeOfTheOldest
         31. NameOfTheOldest
         32. PersonalDetails
+
+    Part: 4
+        1. YourFirstAccount
+        2. YourFirstBankAccount
+        3. DogAttributes
+        4. Room
+        5. Whistle
+        6. Door
+        7. Product
+        8. DecreasingCounter
+        9. Debt
+        10. Song
+        11. Film
+        12. Gauge
+        13. Agent
+        14. Multiplier
+        15. NumberStatistics
+        16. PaymentCard
+        17. Items
+        18. PersonalInformation
+        19. TelevisionPrograms
+        20. Books
+        21. NumberOfStrings
+        22. Cubes
+        23. CreatingANewFile
+        24. PrintingAFile
+        25. PrintingASpecifiedFile
+        26. GuestListFromAFile
+        27. IsItInTheFile
+        28. NumbersFromAFile
+        29. RecordsFromAFile
+        30. StoringRecords
+        31. SportStatistics
