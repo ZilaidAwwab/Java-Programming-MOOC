@@ -59,6 +59,19 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         4. HandlingEmptyLinesInAFile
         5. ReadingDataFromCSVFormatFile
 
+    Part: 5
+        1. ClockHand
+        2. Person
+        3. PrimitiveAndReferenceVariables
+        4. RefTypeVariableAsMethodParam
+        5. AssignObjectInstanceToAnotherObject
+        6. ObjectAsAParameter
+        7. ObjectAsObjectVariable
+        8. DateInJava
+        9. ObjectAsMethodParameter
+        10. EqualityOfObjects
+        11. MethodReturningObject
+
 # Java Programming I (Exercises)
     Part: 1
         1. Sandbox
@@ -201,3 +214,22 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         29. RecordsFromAFile
         30. StoringRecords
         31. SportStatistics
+
+    Part: 5
+        1. OneMinute
+        2. Book
+        3. Cube
+        4. Fitbyte
+        5. ConstructorOverloaded
+        6. OverloadedContructor
+        7. NullPointerException
+        8. BiggestPetShop
+        9. HealthStation
+        10. CardPayments
+        11. ComparingApartments
+        12. Song
+        13. IdenticalTwins
+        14. Books
+        15. Archieve
+        16. DatingApp
+        17. Money
