@@ -71,6 +71,12 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         9. ObjectAsMethodParameter
         10. EqualityOfObjects
         11. MethodReturningObject
+    
+    Part: 6
+        1. ObjectContainAList
+        2. ObjectsInInstanceVariableList
+        3. SeparateUiAndAppLogic
+        4. FromOneEntityToManyParts
 
 # Java Programming I (Exercises)
     Part: 1
@@ -233,3 +239,18 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         15. Archieve
         16. DatingApp
         17. Money
+
+    Part: 6
+        1. Menu
+        2. Stack
+        3. MessagingService
+        4. PrintingACollection
+        5. SantasWorkshop
+        6. LongestInCollection
+        7. HeightOrder
+        8. CargoHold
+        9. SimpleDictionary
+        10. TodoList
+        11. Averages
+        12. JokeManager
+        13. Exercises
