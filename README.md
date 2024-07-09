@@ -77,6 +77,10 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         2. ObjectsInInstanceVariableList
         3. SeparateUiAndAppLogic
         4. FromOneEntityToManyParts
+    
+    Part: 7
+        1. BuiltInSorting
+        2. InformationRetrieval
 
 # Java Programming I (Exercises)
     Part: 1
@@ -254,3 +258,13 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         11. Averages
         12. JokeManager
         13. Exercises
+
+    Part: 7
+        1. LiquidContainers
+        2. LiquidContainers2
+        3. Sorting
+        4. ReadymadeSortingAlgorithms
+        5. Searching
+        6. GradeStatistics
+        7. RecipeSearch
+        8. BigYear
