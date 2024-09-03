@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Library {
@@ -21,5 +22,34 @@ public class Library {
         } else {
             directory.put(name, book);
         }
+    }
+
+    /* Going through a HashMap's Keys */
+    public ArrayList<Book> getBookByPart(String titlePart) {
+        titlePart = titlePart.toLowerCase().trim();
+        ArrayList<Book> books = new ArrayList<>();
+
+        for (String bookTitle: this.directory.keySet()) {
+            if (!bookTitle.contains(titlePart)) {
+                continue;
+            }
+            books.add(this.directory.get(bookTitle));
+        }
+        return books;
+    }
+    
+    /* Going through a HashMap's Values */
+    public ArrayList<Book> getBookValuesByPart(String titlePart) {
+        titlePart = titlePart.toLowerCase().trim();
+        ArrayList<Book> books = new ArrayList<>();
+
+        // Herer we are using the Book data type instead of String (as in key finder)
+        for (Book book: this.directory.values()) {
+            if (!book.getName().contains(titlePart)) {
+                continue;
+            }
+            books.add(this.directory.get(titlePart));
+        }
+        return books;
     }
 }
