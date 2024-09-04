@@ -38,6 +38,39 @@ public class Book {
         this.content = content;
     }
 
+    /* Implementing the equals method, and over riding the default equal method */
+    @Override
+    public boolean equals(Object comparedObject) {
+        // if the variables are located in the same place they are same
+        if (this == comparedObject) return true;
+
+        // if the comparedObject are not of the book type then they are not same
+        if (!(comparedObject instanceof Book)) return false;
+
+        // lets convert the objects to a Book-olioksi
+        Book comparedBook = (Book) comparedObject;
+
+        // if the instance variables of the object are same, so are the objects
+        if (this.name.equals(comparedBook.name) &&
+            this.published == comparedBook.published &&
+            this.content.equals(comparedBook.content)) return true;
+        
+        // otherwise the objects are not same
+        return false;
+    }
+
+    /* Rewriting the hashCode method
+     * If the name here is null then we will get a NullPointerException, that's why we will return the published year if the name is null
+    
+     * But then, all of the books that share a name are bundled into one group. So, we improved it further by taking into account the year of publication is also  in the hash value calculation that's based on the book title.
+     */
+    @Override
+    public int hashCode() {
+        if (this.name == null) return this.published;
+
+        return this.published + this.name.hashCode();
+    }
+
     public String toString() {
         return "Name: " + this.name + " (" + this.published + ")\n" + "Content: " + this.content;
     }
