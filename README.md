@@ -81,7 +81,7 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
     Part: 7
         1. BuiltInSorting
         2. InformationRetrieval
-
+ 
 # Java Programming I (Exercises)
     Part: 1
         1. Sandbox
@@ -268,3 +268,32 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         6. GradeStatistics
         7. RecipeSearch
         8. BigYear
+
+# Java Programming II
+    Part: 8
+        1. HashmapClient
+        2. Book
+        3. Library (Continuation of Book)
+        4. RegisterSightingCounter
+        5. EqualMethod
+        6. HashCodeMethod
+        7. GroupingValuesInHashmap
+        8. TaskTracker
+
+# Java Programming II (Exercises)
+    Part: 8
+        1. Cubes
+        2. AverageOfPositiveNumbers
+        3. LiquidContainers
+        4. LiquidContainers2
+        5. TodoList
+        6. Nicknames
+        7. Abbreviations
+        8. PrintMeAHashMap
+        9. PrintMeAnotherHashMap
+        10. IOweYou
+        11. SameDate
+        12. HashedDate
+        13. VehicleRegistry
+        14. DictionaryOfManyTranslations
+        15. StorageFacility
