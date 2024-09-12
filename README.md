@@ -280,6 +280,14 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         7. GroupingValuesInHashmap
         8. TaskTracker
 
+    Part: 9
+        1. Car
+        2. Point
+        3. AbstractClass
+        4. Interfaces
+        5. Factory (Interface as a return type of method)
+        6. BuiltInInterfaces
+
 # Java Programming II (Exercises)
     Part: 8
         1. Cubes
@@ -297,3 +305,17 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         13. VehicleRegistry
         14. DictionaryOfManyTranslations
         15. StorageFacility
+
+    Part: 9
+        1. ABC
+        2. PersonAndSubclasses
+        3. Warehousing
+        4. DifferentKindsOfBoxes
+        5. TacoBoxes
+        6. InterfaceInABox
+        7. ListAsAMethodParameter
+        8. MapAsAMethodParameter
+        9. SetAsAMethodParameter
+        10. OnlineShop
+        11. Herds
+        12. Animals
