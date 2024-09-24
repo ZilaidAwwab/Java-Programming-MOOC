@@ -287,6 +287,25 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         4. Interfaces
         5. Factory (Interface as a return type of method)
         6. BuiltInInterfaces
+    
+    Part: 10
+        1. InputDataStream
+        2. LambdaExpressions
+        3. TerminalOperations
+        4. IntermidiateOperations
+        5. ObjectsAndStream
+        6. FilesAndStream
+        7. Member (Usage of Comparable Interface)
+        8. MultipleInterfaces
+        9. SortingWithLambdaExpression
+        10. SortingByMultipleCriteria
+        11. StringBuilderClass
+        12. RegularExpression (Package and Program)
+        13. Alternation
+        14. AffectingParts
+        15. EnumClass
+        16. EnumClass2
+        17. Iterators (in EnumClass)
 
 # Java Programming II (Exercises)
     Part: 8
@@ -319,3 +338,22 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         10. OnlineShop
         11. Herds
         12. Animals
+    
+    Part: 10
+        1. AverageOfNumbers
+        2. AverageOfSelectedNumbers
+        3. PositiveNumbers
+        4. Divisible
+        5. PrintingUserInput
+        6. LimitedNumbers
+        7. UniqueLastNames
+        8. Weighting
+        9. ReadingFilesPerLine
+        10. BooksFromFile
+        11. WageOrder
+        12. StudentOnAlphabeticalOrder
+        13. LiteracyComparison
+        14. Literature
+        15. RegularExpressions
+        16. EnumAndIterator
+        17. SortThemCards
