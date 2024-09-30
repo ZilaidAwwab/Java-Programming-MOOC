@@ -306,6 +306,17 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         15. EnumClass
         16. EnumClass2
         17. Iterators (in EnumClass)
+    
+    Part: 11
+        1. Packages
+        2. ExceptionHandling
+        3. ExceptionHandled
+        4. ExceptionAndResources
+        5. ExceptionResponsibilityShift
+        6. ThrowingExceptions
+        7. ConditionedExceptions
+        8. ExceptionsAndInterfaces
+        9. WritingOnFile
 
 # Java Programming II (Exercises)
     Part: 8
@@ -357,3 +368,18 @@ Learn Java Programming Language from MOOC offered by the CS department of Univer
         15. RegularExpressions
         16. EnumAndIterator
         17. SortThemCards
+    
+    Part: 11
+        1. Customer
+        2. ABookAndAPlane
+        3. ShowAndTicket
+        4. StudentAndUniversity
+        5. ThePlayerAndTheBot
+        6. SaveablePerson
+        7. BiggerClassDiagram
+        8. FirstPackage
+        9. TheThreePackages
+        10. FlightControl
+        11. ValidatingParameters
+        12. SensorsAndTemperature
+        13. SaveableDictionary
